@@ -40,3 +40,6 @@ gutenberg.zip
 coverage
 .phpunit.result.cache
 .reassure
+
+# et cetera
+.DS_Store

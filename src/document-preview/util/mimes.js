@@ -1,3 +1,8 @@
+/**
+ * List of mime-types that are allowed for use in the document preview block.
+ * 
+ * @type {string[]}
+ */
 const mimes = [
     'application/msword',
     'application/pdf',

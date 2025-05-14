@@ -8,7 +8,12 @@
 	"icon": "text-page",
 	"description": "Embeds a preview of a PDF or MS Office document.",
 	"supports": {
-		"html": false
+		"html": false,
+		"align": false,
+		"spacing": {
+			"margin": true,
+			"padding": true
+		}
 	},
 	"attributes": {
 		"documentTitle": {

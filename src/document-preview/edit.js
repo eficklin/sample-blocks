@@ -33,7 +33,6 @@ export default function edit({ attributes, setAttributes }) {
 	let fileMeta = '';
 	let download = '';
 	if (media) {
-		console.log(media);
 		preview = media.mime_type === 'application/pdf'
 			? 
 				<object
